@@ -2,6 +2,10 @@
 
 Toda a estilização que será usada no projeto dentro do figma.
 
+Projeto feito para pratica e fixação do que aprendi, utilização do display flex na estilização, utilização de @media para responsividade da pagina afim de uma melhor experiência do usuário.
+
+Link do projeto: https://xandezz.github.io/Skate/
+
 [Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
 
 ## Fonte
